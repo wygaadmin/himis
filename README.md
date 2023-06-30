@@ -1,5 +1,6 @@
 # himis-report-v1.2
-HIMIS: Human Impact Management for Information Security - A model for helping organizations foster Responsible Information Security Behavior amongst the workforce.
+**HIMIS: Human Impact Management for Information Security**
+A model for helping organizations foster Responsible Information Security Behavior amongst the workforce.
 
 
 
